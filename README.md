@@ -27,7 +27,7 @@ This project uses Conda to manage dependencies. Make sure you have Miniconda or 
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/Geekfolio/PyServer
+git clone https://github.com/Geekfolio/VULTR_PYSERVER
 cd PyServer
 ```
 
