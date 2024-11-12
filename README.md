@@ -28,7 +28,7 @@ This project uses Conda to manage dependencies. Make sure you have Miniconda or 
 
 ```bash
 git clone https://github.com/Geekfolio/VULTR_PYSERVER
-cd PyServer
+cd VULTR_PYSERVER
 ```
 
 ### Create and activate the environment from the environment.yaml file:
@@ -56,7 +56,7 @@ This will start the server at http://127.0.0.1:8000.
 
 ### Usage
 
-You can send POST requests to upload a resume file to the endpoint /upload. The server will process the file and return structured data in JSON format.
+You can send POST requests to upload a resume file to the endpoint /extract. The server will process the file and return structured data in JSON format.
 Example Request
 
 ```bash
